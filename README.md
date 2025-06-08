@@ -9,21 +9,22 @@
 
 ## Spis treści
 
-- [Laboratorium 1 – Wprowadzenie do HTML i CSS](#laboratorium-1--wprowadzenie-do-html-i-css)
-- [Laboratorium 2 – Zaawansowane stylowanie CSS](#laboratorium-2--zaawansowane-stylowanie-css)
-- [Laboratorium 3](#laboratorium-3)
-- [Laboratorium 4](#laboratorium-4)
-- [Laboratorium 5](#laboratorium-5)
-- [Laboratorium 6](#laboratorium-6)
-- [Laboratorium 7](#laboratorium-7)
-- [Laboratorium 8](#laboratorium-8)
-- [Laboratorium 9](#laboratorium-9)
-- [Laboratorium 10](#laboratorium-10)
-- [Laboratorium 11](#laboratorium-11)
+- [Laboratorium 01 – Wprowadzenie do HTML i CSS](#laboratorium-1--wprowadzenie-do-html-i-css)
+- [Laboratorium 02 – Zaawansowane stylowanie CSS](#laboratorium-2--zaawansowane-stylowanie-css)
+- [Laboratorium 03 – Tworzenie layoutu w HTML5](#laboratorium-3--tworzenie-layoutu-w-html5)
+- [Laboratorium 04 – Opływanie i pozycjonowanie](#laboratorium-4--opływanie-i-pozycjonowanie)
+- [Laboratorium 05 – Projekt przykładowego layoutu strony](#laboratorium-5--projekt-przykładowego-layoutu-strony)
+- [Laboratorium 06 – Nawigacja i podstrony](#laboratorium-6--nawigacja-i-podstrony)
+- [Laboratorium 07 – Formularz HTML](#laboratorium-7--formularz-html)
+- [Laboratorium 08 – Walidacja formularza z JavaScript](#laboratorium-8--walidacja-formularza-z-javascript)
+- [Laboratorium 09 – Formularze: hasła, ceny, dane adresowe](#laboratorium-9--formularze-hasła-ceny-dane-adresowe)
+- [Laboratorium 10 – Obsługa zdarzeń (addEventListener)](#laboratorium-10--obsługa-zdarzeń-addeventlistener)
+- [Laboratorium 11 – Finalny projekt strony z walidacją](#laboratorium-11--finalny-projekt-strony-z-walidacją)
+- [📌 Uwagi końcowe](#-uwagi-końcowe)
 
 ---
 
-## Laboratorium 1 – Wprowadzenie do HTML i CSS
+## Laboratorium 01 – Wprowadzenie do HTML i CSS
 
 ### Tematy:
 - Struktura dokumentu HTML5
@@ -55,7 +56,7 @@ h1 {
 
 ---
 
-## Laboratorium 2 – Zaawansowane stylowanie CSS
+## Laboratorium 02 – Zaawansowane stylowanie CSS
 
 ### Nowe zagadnienia:
 - Obramowania (`border`)
@@ -69,7 +70,7 @@ h1 {
 
 ---
 
-## Laboratorium 3 – Tworzenie layoutu w HTML5
+## Laboratorium 03 – Tworzenie layoutu w HTML5
 
 ### Cele:
 - Zaprojektowanie struktury strony zgodnej ze standardem HTML5
@@ -104,7 +105,7 @@ h1 {
 
 ---
 
-## Laboratorium 4 – Opływanie i pozycjonowanie
+## Laboratorium 04 – Opływanie i pozycjonowanie
 
 ### Praktyka:
 - Modyfikacja layoutu z lab. 3 z użyciem `float`, `position`
@@ -117,7 +118,7 @@ h1 {
 
 ---
 
-## Laboratorium 5 – Projekt przykładowego layoutu strony
+## Laboratorium 05 – Projekt przykładowego layoutu strony
 
 ### Zadanie:
 - Stworzenie layoutu zgodnie z rysunkiem projektowym (bloki A1–A4, B1–B2)
@@ -140,7 +141,7 @@ h1 {
 
 ---
 
-## Laboratorium 6 – Nawigacja i podstrony
+## Laboratorium 06 – Nawigacja i podstrony
 
 ### Tematy:
 - Tworzenie menu z linkami do podstron
@@ -155,7 +156,7 @@ h1 {
 
 ---
 
-## Laboratorium 7 – Formularz HTML
+## Laboratorium 07 – Formularz HTML
 
 ### Zadanie:
 - Stworzenie podstrony `formularz.html`
@@ -168,7 +169,7 @@ h1 {
 
 ---
 
-## Laboratorium 8 – Walidacja formularza z JavaScript
+## Laboratorium 08 – Walidacja formularza z JavaScript
 
 ### Cele:
 - Walidacja formularzy z JS
@@ -181,7 +182,7 @@ h1 {
 
 ---
 
-## Laboratorium 9 – Formularze: hasła, ceny, dane adresowe
+## Laboratorium 09 – Formularze: hasła, ceny, dane adresowe
 
 ### Składniki formularzy:
 - `login`, `hasło`, `powtórz hasło`
