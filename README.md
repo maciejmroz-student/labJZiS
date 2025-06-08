@@ -42,6 +42,14 @@
 ```css
 body {
   background-color: #bfe7be;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
 }
 ```
 
@@ -73,9 +81,25 @@ body {
 - Osadzenie grafiki w nagłówku
 
 ```html
-<header>
-  <img src="banner.jpg" alt="Baner">
-</header>
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Moja Strona</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="banner.jpg" alt="Baner">
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="podstrona1.html">O nas</a></li>
+    </ul>
+  </nav>
+</body>
+</html>
 ```
 
 ---
