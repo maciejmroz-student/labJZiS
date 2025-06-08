@@ -54,6 +54,8 @@ h1 {
 }
 ```
 
+[🔝 Powrót do spisu treści](#spis-treści)
+
 ---
 
 ## Laboratorium 02 – Zaawansowane stylowanie CSS
@@ -102,6 +104,7 @@ h1 {
 </body>
 </html>
 ```
+[🔝 Powrót do spisu treści](#spis-treści)
 
 ---
 
@@ -115,6 +118,8 @@ h1 {
 - `float: left/right`
 - `position: relative/absolute`
 - `clear: both`
+
+[🔝 Powrót do spisu treści](#spis-treści)
 
 ---
 
@@ -139,6 +144,8 @@ h1 {
 - Precyzyjne pozycjonowanie elementów
 - Utrwalanie koncepcji klas i identyfikatorów CSS
 
+[🔝 Powrót do spisu treści](#spis-treści)
+
 ---
 
 ## Laboratorium 06 – Nawigacja i podstrony
@@ -154,6 +161,8 @@ h1 {
   - `nav-03` – graficzna
   - `nav-06` – pionowa lista z grafikami
 
+[🔝 Powrót do spisu treści](#spis-treści)
+
 ---
 
 ## Laboratorium 07 – Formularz HTML
@@ -167,6 +176,8 @@ h1 {
 - Własny CSS formularza (`form { ... }`)
 - Dopasowanie stylu do wyglądu całej strony
 
+[🔝 Powrót do spisu treści](#spis-treści)
+
 ---
 
 ## Laboratorium 08 – Walidacja formularza z JavaScript
@@ -179,6 +190,8 @@ h1 {
 1. Sprawdzenie czy pola tekstowe są wypełnione
 2. Wyświetlenie danych obok pól formularza
 3. Obliczanie pierwiastków równania kwadratowego
+
+[🔝 Powrót do spisu treści](#spis-treści)
 
 ---
 
@@ -194,6 +207,8 @@ h1 {
 - Sprawdzenie poprawności liczby (`parseInt`, `isNaN`)
 - Weryfikacja formatu daty i kodu pocztowego
 
+[🔝 Powrót do spisu treści](#spis-treści)
+
 ---
 
 ## Laboratorium 10 – Obsługa zdarzeń (addEventListener)
@@ -206,6 +221,8 @@ h1 {
 2. Checkboxy – komunikaty zależne od liczby zaznaczeń
 3. Select (kolory)
 4. Radio (opcje wyboru)
+
+[🔝 Powrót do spisu treści](#spis-treści)
 
 ---
 
@@ -230,8 +247,12 @@ h1 {
 index.html
 ```
 
+[🔝 Powrót do spisu treści](#spis-treści)
+
 ---
 
 ## 📌 Uwagi końcowe:
 - Po każdych zajęciach: archiwizacja projektu (`.zip`) i przesłanie przez **ILIAS**
 - W projektach zachowana struktura katalogów: `z1`, `z2`, `z3`, `z4`, itd.
+
+[🔝 Powrót do spisu treści](#spis-treści)
