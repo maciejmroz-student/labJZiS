@@ -9,8 +9,8 @@
 
 ## Spis treści
 
-- [Laboratorium 1](#laboratorium-1)
-- [Laboratorium 2](#laboratorium-2)
+- [Laboratorium 1 – Wprowadzenie do HTML i CSS](#laboratorium-1--wprowadzenie-do-html-i-css)
+- [Laboratorium 2 – Zaawansowane stylowanie CSS](#laboratorium-2--zaawansowane-stylowanie-css)
 - [Laboratorium 3](#laboratorium-3)
 - [Laboratorium 4](#laboratorium-4)
 - [Laboratorium 5](#laboratorium-5)
